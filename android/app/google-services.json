@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "83505881861",
+    "firebase_url": "https://sana-oil-app.firebaseio.com",
+    "project_id": "sana-oil-app",
+    "storage_bucket": "sana-oil-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83505881861:android:dc15d43b79113076eacd6c",
+        "android_client_info": {
+          "package_name": "com.skilla.oils"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83505881861-0t64ak0nb2b0rmkao0hn0e7m1g9l9ilv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skilla.oils",
+            "certificate_hash": "a1f33d77220a16f5cc01de650c0dc712b0d64c18"
+          }
+        },
+        {
+          "client_id": "83505881861-4j9sgbf28j2v4h1ri0i37b9q2rdgfefl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMxaBgkXAa2XIjW5fFCT5_RtOFE6JkyPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83505881861-4j9sgbf28j2v4h1ri0i37b9q2rdgfefl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83505881861-sm3s7o67o4sim5tvmd96ocmg46snn6dq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skilla.oils"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

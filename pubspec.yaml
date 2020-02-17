@@ -1,0 +1,41 @@
+name: exentialoils
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.3.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^0.15.3+1
+  cloud_firestore: ^0.13.0+1
+  firebase_storage: ^3.1.1
+  image_picker: ^0.6.3+1
+  basic_utils: ^2.4.8
+  material_design_icons_flutter: ^3.4.4795
+  ff_navigation_bar: ^0.1.3
+
+  get_it: ^3.0.0+1
+  provider: ^3.2.0
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Open Sans
+      fonts:
+        - asset: assets/fonts/OpenSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/OpenSans-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/OpenSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/OpenSans-Regular.ttf
+          weight: 400
